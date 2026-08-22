@@ -1,5 +1,5 @@
-# SISTEMA-DAVIDE
-Um Sistema de Organização do Conhecimento(SOC) destinado para polímatas. Desenvolvido para armazenar todo e qualquer tipo de informação. É baseado em: Notas atômicas, categorias ontológicas e categorias dimensionais.
+# SISTEMA DAVIDE
+Sistema de Organização do Conhecimento(SOC) destinado para polímatas. Desenvolvido a fim de armazenar todo e qualquer tipo de informação. É baseado em: Notas atômicas, categorias ontológicas e categorias dimensionais.
 
 As informações são divididas em:
 1. Agente
@@ -11,3 +11,6 @@ As informações são divididas em:
 7. Material
 8. Mídia
 9. Organismo
+
+> [!note] ANEXO
+> - O foco é o processamento do conhecimento.
