@@ -1,7 +1,7 @@
 # INTRODUÇÃO
 Em tempos em que dados se tornaram um ativo valiosíssimo, é de extrema importância uma forma de armazena-lo, de tal modo que seja consistente e padronizado. Em _Como Ler Livros_ de Mortimer Adler, escreveu:
 
-> "Há uma sensação, hoje em dia, de que temos excesso a muitos fatos, mas não necessariamenteao entendimento desses fatos".
+> "Há uma sensação, hoje em dia, de que temos acesso a muitos fatos, mas não necessariamente ao entendimento desses fatos".
 
 Particularmente, sempre gostei de catalogar coisas. Quando criança, colecionava caixas de lápis de cor das mais diversas marcas, e sempre gostava de reorganizar as cores, pois nunca achava que a forma como vinham organizados de fábrica era a maneira mais lógica de dispo-los. Eu os separava em cores saturadas, pouco saturadas, claras, escuras e neutras. Obviamente, poderiam ser classificados de outras maneiras. Talvez classifica-los pela matiz, englobando lápis dos tons vermelhos, azuis, verdes e assim por diante.
 
