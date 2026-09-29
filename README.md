@@ -1,7 +1,7 @@
 # SISTEMA DAVIDE
 Sistema de Organização do Conhecimento(SOC) destinado para polímatas. Desenvolvido a fim de armazenar todo e qualquer tipo de informação. É baseado em: Notas atômicas, categorias ontológicas e categorias dimensionais.
 
-As informações são divididas em:
+As informações são divididas em (PRECISA DE AJUSTES!!):
 1. Agente
 2. Conceito Abstrato
 3. Evento
@@ -35,4 +35,10 @@ A função principal da língua é descrever e comunicar a realidade a um recept
 
 Na prática, seja no analógico, ou no digital, as informações se tornam notas com cada uma, uma única ideia, o que chamamos de notas atômicas, como batizado pelo sociólogo Niklas Luhmann. Cada nota contêm pelo menos um título de seu endereço e uma descrição, o mais breve possível.
 
-O Sistema Davide se adapta muito bem, tanto no analógico quanto no digital, no entanto, por mais que as notas representem uma única ideia cada, algumas ideias são bastante densas e certamente não caberiam em uma ficha pequena de papel. Particularmente, recomendo fortemente o digital, e em meus estudos, adotei o Obsidian. Apesar de alguns estudos 
+O Sistema Davide se adapta muito bem, tanto no analógico quanto no digital, no entanto, por mais que as notas representem uma única ideia cada, algumas ideias são bastante densas e certamente não caberiam em uma ficha pequena de papel. Particularmente, recomendo fortemente o digital, e em meus estudos, adotei o Obsidian. Apesar de alguns estudos apontarem uma relação de melhora na memória e o ato de escrever à mão, acredito que poder fazer uma organização multifacetada, edição reversível,  multiplataforma e sem depender de espaço físico levam a melhor. No analógico, eu jamais conseguiria um nível de organização tão impecável por conta de suas limitações.
+## CATEGORIAS
+Com um conjunto de informações e notas, cabe agora organiza-las e aqui, entra a taxonomia. Humanos são ótimos em categorizar coisas e fazemos isso literalmente o tempo todo. Experimente lembrar de uma pessoa a qual você convive bastante, você tem que memorizar todas os ângulos de visão dela, isso é uma categorização.
+
+A questão é que seres podem ser classificados de mais de uma maneira. Tentamos impor hierarquias rígidas do mais abrangente ao mais específico e falhamos miseravelmente ao ver que uma mesma informação pode ocupar mais de uma caixinha. Na escola, crescemos com categorias como língua portuguesa, matemática, história, geografia, biologia ou física. Infelizmente, nem todas as categorias fazem muito sentido e são emergentes de seus contextos históricos, estas foram criadas a fim de particionar o trabalho, visto que o conhecimento humano se expandiu muito. Geografia, por exemplo, é muitas vezes descrita como uma matéria de humanas, até você perceber que colide com conceitos de biologia e química ao explorar o solo e como o homem interage com ele. Química e física são uma das caixas mais tênues, são praticamente o mesmo objeto vistos de maneiras diferentes e utilizam a matemática a fim de descrever a natureza.
+
+A conclusão que fica é que um mesmo objeto pode ser classificado por prismas diferentes, mas então como organizar um conjunto de notas sem que elas fiquem espalhadas por ai numa caixa?
